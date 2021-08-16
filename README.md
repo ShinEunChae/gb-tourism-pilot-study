@@ -6,14 +6,16 @@
   
   ### 내용
     1. Selenium을 활용하여 네이버 블로그 포스팅의 관련 데이터 크롤링
-    ![Animation](https://user-images.githubusercontent.com/68213799/129530707-71365e16-50d9-4526-b1eb-2549395f0dc9.gif)  
+   ![Animation](https://user-images.githubusercontent.com/68213799/129530707-71365e16-50d9-4526-b1eb-2549395f0dc9.gif)
+    
     2. konlpy 라이브러리의 okt 형태소 분석기를 사용, 명사 추출  
     3. wordcloud로 핵심 키워드 탐색
-    ![wordcloud](https://user-images.githubusercontent.com/68213799/129531870-82d6a4fc-73cf-47ca-a350-71971f799767.png)
+   ![wordcloud](https://user-images.githubusercontent.com/68213799/129531870-82d6a4fc-73cf-47ca-a350-71971f799767.png)
+    
     4. 3의 결과를 바탕으로 임의로 관광지/관광기업 선정  
     5. 선정한 관광지들에 대하여 심화 분석 진행  
     6. folium 라이브러리를 활용하여 지도상에 시각화  
-    ![gif_folium](https://user-images.githubusercontent.com/68213799/129533727-4bb95fb5-294f-4c1d-b010-e63661841a57.gif)
+   ![gif_folium](https://user-images.githubusercontent.com/68213799/129533727-4bb95fb5-294f-4c1d-b010-e63661841a57.gif)
   
   
   ### 결과
